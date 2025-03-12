@@ -1,4 +1,4 @@
 qq-botpy
 requests
 pyyaml
-schedule
+openai
